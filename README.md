@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science and Engineering
+- 🎓 B.Tech in Computer Science and Engineering in 2026
 - 🤖 Interested in Machine Learning, Deep Learning, and LLMs
-- 🐍 Experienced with Python, SQL, FastAPI, and React
+- 🐍 Experienced with Python, SQL, FastAPI, and React,ML
 - 🛠️ Built full-stack applications and machine learning projects
 - 🧠 Long-term goal: Build my own language model from scratch
 
